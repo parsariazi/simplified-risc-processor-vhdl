@@ -80,8 +80,6 @@ simplified-risc-processor-vhdl
 │   └── REPORT.pdf
 │
 ├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ---
