@@ -269,7 +269,3 @@ GitHub:
 https://github.com/parsariazi
 
 ---
-
-# License
-
-This project is released under the MIT License.
