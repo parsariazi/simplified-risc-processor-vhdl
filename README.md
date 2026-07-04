@@ -260,7 +260,7 @@ Possible future extensions include:
 
 **Parsa Riazi**
 
-Computer Engineering Student
+EE AUT Student
 
 GitHub:
 
